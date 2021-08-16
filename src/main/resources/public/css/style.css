@@ -1,0 +1,39 @@
+*{
+  overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+body{
+background-image: url("../images/Burning-ninja.jpg");
+
+ background-size: cover;
+  height: 100%;
+  overflow: hidden;
+background-repeat :no-repeat;
+}
+.index{
+color: white;
+ font-size: 50px;
+ font-weight: bold;
+}
+
+
+h1{
+color: white;
+ font-size: 50px;
+ font-weight: bold;
+}
+
+p{
+color:white;
+}
+
+.form-group{
+color:white;
+}
+.hero-style{
+        width: 70px;
+        height: 70px;
+        box-shadow: 2px 2px 5px grey;
+}
+

@@ -1,0 +1,23 @@
+{{#partial "content"}}
+
+    <h1>Squad list!</h1>
+
+
+    {{#if squad}}
+        {{#each squad }}
+            <p>Current squad</p>
+            <p> Name:{{ name }}</p>
+            <p>Maximum Number Of Squad:{{ size }}</p>
+            <p>Cause for fighting:{{ cause }}</p>
+
+        {{/each}}
+    {{else}} <!--no posts!-->
+
+    <p>No Squad yet</p>
+    {{/if}}
+
+    <a href="/squad/new"> Add Squad</a>
+
+{{/partial}}
+
+{{> layout.hbs}}
