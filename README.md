@@ -19,7 +19,7 @@ Clone this repository to your local machine to get Started
 
 You need the following installed on your machine
 - java
-- JDK - Java Development Ki
+- JDK - Java Development Kit
 - Maven
 - Gradle
 - An IDE - Intellij
