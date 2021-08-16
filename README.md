@@ -35,7 +35,7 @@ $ gradle --version     //gradle version
 ## Installing
 
 After cloning to your local machine navigate to the folder you cloned into and open it with intellij.
-* Navigate into the ``` src/main/java/App.java ``` and click run in intellij
+* Navigate into the ``` src/main/java/App.java ``` and click run in intellij.
 * Go to your browser and type ``` localhost:4567 ```
 
 ## Running the Tests 
