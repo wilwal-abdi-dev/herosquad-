@@ -4,7 +4,7 @@ This is a java app that enables a user create a hero and a squad and also the us
 
 ## Author
 
-* **muhudin abdi ali** 
+* **muhudin abdi ali*
 
 
 
