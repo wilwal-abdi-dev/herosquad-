@@ -57,7 +57,7 @@ This is a sample test that tests if the getter method works
 
 * [Java](https://www.java.com/) - The language used
 * [Intellij Idea](https://www.jetbrains.com/idea/) - Intergated development
-* [Spark]() - Framewor
+* [Spark]() - Framework
 
 
 ## Contributing
