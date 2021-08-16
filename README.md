@@ -11,7 +11,7 @@ This is a java app that enables a user create a hero and a squad and also the us
 
 ## Getting Started
 
-Clone this repository to your local machine to get Started
+Clone this repository to your local machine to get Starte
 
 
 
